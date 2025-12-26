@@ -1,0 +1,32 @@
+# Data Manipulation
+pandas
+numpy
+scipy
+openpyxl
+
+# NLP & Text Processing
+emoji
+nltk
+Sastrawi
+
+# Machine Learning & Deep Learning
+torch
+scikit-learn
+transformers>=4.30.0
+sentence-transformers
+accelerate
+bitsandbytes
+
+# Clustering & Dimensionality Reduction
+umap-learn
+hdbscan
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Utilities
+tqdm
+jupyter
+ipykernel
