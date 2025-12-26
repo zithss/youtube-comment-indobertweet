@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Large Data Files
+*.zip
+*.tar.gz
+
+# Model weights
+models/
+*.pt
+*.bin
+*.safetensors
